@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Iterative vs Recursive Performance Chart](#performance-chart)
-* [Requirements](#requirements)
+* [Technical Documentation](#technical-documentation)
 * [User Guide](#user-guide)
 
 ## Performance Chart
